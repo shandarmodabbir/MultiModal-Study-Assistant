@@ -1,0 +1,187 @@
+{
+  "notes": [
+    "The study identifies spatially and temporally linked paired metamorphism in the Western Dharwar Craton (WDC) at the Archean-Proterozoic boundary (c. 2.53-2.41 Ga).",
+    "Paired metamorphism involves two adjacent metamorphic belts of the same age showing contrasting thermal gradients, such as high P/T versus low P/T regimes.",
+    "In the Early Earth, paired metamorphism is recognized by the duality of intermediate T/P (eclogite-HP granulite) and high T/P (granulite-UHT) regimes.",
+    "The medium-grade (MG) domain in the WDC features pelitic schists in the kyanite stability field with a maximum temperature (Tmax) of 630-650°C.",
+    "MG rocks followed clockwise P-T paths representing 'pulsating orogenesis,' involving multiple short-lived burial-exhumation and heating-cooling cycles.",
+    "The MG domain exhibits short-lived lower-crustal residence (10-20 Myrs) and relatively fast exhumation rates of 0.6-2 mm/yr.",
+    "The high-grade (HG) domain consists of mafic and metasedimentary granulites in the sillimanite stability field with a Tmax of 800-870°C.",
+    "HG rocks record a monocyclic clockwise P-T path with high T/P ratios, indicating a single prograde heating event.",
+    "The HG domain is characterized by extremely long-lived crustal residence (~238 Myrs) and ultra-slow cooling rates of approximately 2°C/Myr.",
+    "Research methods used to reconstruct these histories include P-T-t path modeling, garnet-biotite diffusion chronometry, and monazite chemical dating.",
+    "The findings support the 'peel-back convergence' model, which differentiates between a Thickened Crustal Zone (TCZ) and a Peel-off Zone (PoZ).",
+    "The MG domain represents the intermediate T/P conditions of the TCZ, while the HG domain aligns with the high T/P conditions of the PoZ.",
+    "This paired metamorphism indicates a transition from Archean plume-driven vertical tectonics to asymmetric plate subduction.",
+    "The hotter Archean Earth inhibited the formation of cold lawsonite-blueschists, making the duality of intermediate and high T/P ratios the primary indicator of subduction.",
+    "Regional metamorphic rocks serve as monitors of tectonic settings by using thermobaric (T/P) ratios at the metamorphic peak to define thermal gradients.",
+    "Pulsating orogenesis describes an orogenic event consisting of several recurring, short-lived metamorphic cycles rather than a single continuous event.",
+    "The WDC study provides rare evidence for spatially adjacent paired metamorphic belts, which are seldom preserved in the Archean rock record."
+  ],
+  "flashcards": [
+    {
+      "q": "What are the two primary metamorphic domains analyzed in the Western Dharwar Craton (WDC) study?",
+      "a": "The study analyzes a medium-grade (MG) domain, represented by pelitic schists, and a high-grade (HG) domain, represented by mafic and metasedimentary granulites."
+    },
+    {
+      "q": "How is 'paired metamorphism' defined in the context of the Early Earth?",
+      "a": "It refers to the duality of thermal regimes in spatially adjacent domains, specifically one with intermediate T/P (temperature/pressure) gradients and another with high T/P gradients."
+    },
+    {
+      "q": "What mineral stability fields distinguish the MG and HG domains in the WDC?",
+      "a": "The medium-grade (MG) domain is characterized by the stability field of kyanite, while the high-grade (HG) domain is characterized by the stability field of sillimanite."
+    },
+    {
+      "q": "What are the typical cooling and exhumation rates for the MG domain in the WDC?",
+      "a": "The MG domain experienced relatively fast metamorphic cooling (10-20 °C/Myr) and faster exhumation rates (0.6 to 2 mm/yr)."
+    },
+    {
+      "q": "How does the crustal residence time of the HG domain compare to the MG domain?",
+      "a": "The HG domain had an extremely long-lived lower-mid-crustal residence of approximately 238 Myrs, whereas the MG domain's residence was relatively short-lived at 10-20 Myrs."
+    },
+    {
+      "q": "What tectonic model is proposed to explain the paired metamorphism found in the Western Dharwar Craton?",
+      "a": "The study suggests the 'peel-back convergence' style of plate tectonics, which was operational at the Archean-Proterozoic boundary."
+    },
+    {
+      "q": "Define 'pulsating orogenesis' as described in the lecture content.",
+      "a": "It is an orogenesis consisting of several short-lived heating-cooling and burial-exhumation stages as part of multiple metamorphic cycles, each with a distinct P-T path."
+    },
+    {
+      "q": "What was the approximate time interval for the coeval metamorphism in both WDC domains?",
+      "a": "The metamorphism occurred between approximately 2.53 and 2.41 Ga during the same orogenic event."
+    },
+    {
+      "q": "In Phanerozoic paired metamorphism, what do the contrasting thermal regimes represent?",
+      "a": "They represent spatially adjacent fossil subduction zones (high P/T) and the arc-back-arc systems (low P/T) in the orogenic hinterland."
+    },
+    {
+      "q": "What are the two spatially adjacent tectonic domains identified in thermo-mechanical models of peel-back convergence?",
+      "a": "The models identify the thickened crustal zone (TCZ), which corresponds to intermediate T/P, and the peel-off zone (PoZ), which corresponds to high T/P."
+    },
+    {
+      "q": "What were the maximum temperatures (TMax) recorded in the HG domain of the WDC?",
+      "a": "The high-grade domain recorded maximum temperatures between 800°C and 870°C."
+    },
+    {
+      "q": "Why does the Archean Earth record 'intermediate T/P' rather than 'high P/T' metamorphism like the Phanerozoic?",
+      "a": "The Archean Earth was hotter, which inhibited the formation of cold subduction indicators like lawsonite-blueschists and ultra-high pressure eclogites."
+    },
+    {
+      "q": "What type of P-T paths did the medium-grade (MG) domain follow?",
+      "a": "The MG domain followed multiple clockwise (CW) P-T paths representing recurring burial-exhumation and heating-cooling cycles."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "Which mineral stability field is diagnostic of the High-Grade (HG) domain in the Western Dharwar Craton according to the study?",
+      "options": [
+        "A) Kyanite",
+        "B) Glaucophane",
+        "C) Sillimanite",
+        "D) Jadeite"
+      ],
+      "answer": "C",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "What significant tectonic transition is hypothesized to have occurred at the Archean-Proterozoic boundary?",
+      "options": [
+        "A) From plume-driven vertical tectonics to asymmetric plate subduction",
+        "B) From cold subduction to mantle-driven stagnant lid regime",
+        "C) From horizontal plate tectonics to vertical crustal dripping",
+        "D) From asymmetric subduction to uniform global cooling"
+      ],
+      "answer": "A",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "Despite having uniform burial to lower crustal depths, the MG and HG domains primarily differ in which aspect of their evolution?",
+      "options": [
+        "A) Total depth of burial",
+        "B) Thermal (T-t) history and T/P ratios",
+        "C) The direction of their P-T paths",
+        "D) Initial formation age of the protolith"
+      ],
+      "answer": "B",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "How do the exhumation rates of the Medium-Grade (MG) domain compare to the High-Grade (HG) domain?",
+      "options": [
+        "A) The MG domain exhumed slower at approximately 0.1 mm/yr",
+        "B) Both domains exhumed at a uniform rate of 1-2 mm/yr",
+        "C) The HG domain exhumed ten times faster than the MG domain",
+        "D) The MG domain exhumed significantly faster (0.6-2 mm/yr) than the HG domain (~0.1 mm/yr)"
+      ],
+      "answer": "D",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "In the context of the study, what is meant by 'pulsating orogenesis'?",
+      "options": [
+        "A) A single, continuous heating event lasting over 500 million years",
+        "B) Subduction of cold oceanic crust to depths exceeding 100 km",
+        "C) Several short-lived heating-cooling and burial-exhumation stages with distinct P-T paths",
+        "D) Vertical movement of crustal blocks driven entirely by mantle plumes"
+      ],
+      "answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following best characterizes the cooling history of the High-Grade (HG) domain?",
+      "options": [
+        "A) Rapid cooling at rates of 10-20 °C/Myr",
+        "B) Ultra-slow cooling at approximately 2 °C/Myr",
+        "C) Isothermal exhumation followed by rapid quenching",
+        "D) Constant temperature residence followed by abrupt burial"
+      ],
+      "answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "According to the study, the presence of spatially linked paired metamorphism (intermediate T/P and high T/P) is indicative of which process?",
+      "options": [
+        "A) Gravitational instability in greenstone successions",
+        "B) One-sided, asymmetric subduction at convergent margins",
+        "C) Uniform global warming due to increased mantle radioactivity",
+        "D) Symmetrical collision between two equally dense continental plates"
+      ],
+      "answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "In the 'peel-back convergence' model, how are the Thickened Crustal Zone (TCZ) and Peel-off Zone (PoZ) distinguished by their metamorphic signatures?",
+      "options": [
+        "A) TCZ shows intermediate T/P ratios, while PoZ shows high T/P ratios",
+        "B) TCZ exhibits monocyclic evolution while PoZ is always polycyclic",
+        "C) TCZ is characterized by low pressure, while PoZ reaches ultra-high pressures",
+        "D) TCZ represents the arc system while PoZ represents the subducting oceanic slab"
+      ],
+      "answer": "A",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Why is the traditional Miyashiro-style paired metamorphism (high P/T vs. low P/T) modified when examining Archean rock records?",
+      "options": [
+        "A) Because Archean rocks do not contain kyanite or sillimanite",
+        "B) Because the Archean Earth was cooler, preventing the formation of granulites",
+        "C) Because the hotter Archean Earth inhibited the formation of cold lawsonite-blueschists and eclogites",
+        "D) Because plate tectonics did not exist until the Phanerozoic"
+      ],
+      "answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Which set of findings regarding the Medium-Grade (MG) domain supports its classification as having a 'short-lived' crustal residence?",
+      "options": [
+        "A) Residence time of ~238 Myrs and cooling of ~2 °C/Myr",
+        "B) Residence time of 10-20 Myrs and cooling of 10-20 °C/Myr",
+        "C) Peak temperatures of 870 °C and monocyclic CW P-T paths",
+        "D) Stability in the sillimanite field and exhumation of 0.1 mm/yr"
+      ],
+      "answer": "B",
+      "difficulty": "Hard"
+    }
+  ]
+}

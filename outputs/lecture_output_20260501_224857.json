@@ -1,0 +1,190 @@
+{
+  "notes": [
+    "Igneous petrology is the study of magmas, which are high-temperature solutions of elements produced by melting pre-existing rocks, and the rocks that crystallize from them.",
+    "Igneous rocks are identified and classified based on two primary criteria: texture (the physical appearance) and composition (the mineral and chemical makeup).",
+    "Intrusive or plutonic rocks solidify slowly below the Earth's surface, forming coarse-grained textures with visible, interlocking crystals known as phaneritic texture.",
+    "Extrusive or volcanic rocks solidify rapidly above the Earth's surface, resulting in fine-grained aphanitic textures where crystals are too small to be seen with the naked eye.",
+    "Glassy texture occurs when magma is quenched so rapidly that atoms cannot form a crystalline structure, resulting in an amorphous solid like obsidian.",
+    "Porphyritic texture features two distinct grain sizes: large crystals called phenocrysts formed during slow cooling, and a finer groundmass formed during subsequent rapid cooling.",
+    "Pegmatitic rocks contain exceptionally large crystals, often several centimeters in size, typically forming in veins or layers within plutonic bodies.",
+    "Vesicular texture is characterized by pores or cavities called vesicles, which are created by expanding gases trapped in volcanic rock during solidification.",
+    "Pyroclastic or fragmental rocks, such as volcanic breccia and ignimbrite, are formed from the accumulation and welding of igneous material ejected during volcanic eruptions.",
+    "Minerals are categorized as felsic (silica-rich and light-colored like quartz and feldspar) or mafic (magnesium/iron-rich and dark-colored like olivine and pyroxene).",
+    "Based on silica (SiO2) content, rocks are classified as acidic (>65 wt%), intermediate (52-65 wt%), basic (45-52 wt%), or ultrabasic (<45 wt%).",
+    "The IUGS classification utilizes QAPF triangular diagrams to name rocks based on the modal percentages of quartz, alkali feldspar, plagioclase, and feldspathoids.",
+    "Ultramafic rocks are defined by containing more than 90% mafic minerals and are further classified using ternary diagrams of olivine and pyroxenes.",
+    "The Total Alkalis vs. Silica (TAS) diagram provides a chemical classification method for naming volcanic and plutonic rocks when mineral modes cannot be determined.",
+    "Rocks are categorized by the alkali-alumina index as peraluminous, metaluminous, or peralkaline based on the molar ratio of Al2O3 to Na2O, K2O, and CaO.",
+    "Sub-alkaline magmas are divided into tholeiitic series (reduced, iron-enriching) and calc-alkaline series (oxidized, steady iron levels) based on their redox state and mineral precipitation."
+  ],
+  "flashcards": [
+    {
+      "q": "What is the primary difference between intrusive and extrusive igneous rocks?",
+      "a": "Intrusive (plutonic) rocks solidify slowly below the Earth's surface, forming visible crystals, while extrusive (volcanic) rocks solidify rapidly above the surface, resulting in fine-grained textures."
+    },
+    {
+      "q": "Define phaneritic and aphanitic textures.",
+      "a": "Phaneritic texture refers to rocks with crystals visible to the naked eye, typical of intrusive rocks, while aphanitic texture refers to crystals too small to be seen without magnification, typical of extrusive rocks."
+    },
+    {
+      "q": "In a porphyritic texture, what are the two distinct crystal components called?",
+      "a": "The large crystals are called phenocrysts, which form during early slow cooling, and the surrounding small crystals or glass are called groundmass, which forms during later rapid cooling."
+    },
+    {
+      "q": "What are pyroclastic rocks?",
+      "a": "Pyroclastic rocks are fragmental igneous rocks produced during volcanic eruptions from the accumulation and redeposition of disaggregated igneous material."
+    },
+    {
+      "q": "How is a pegmatitic texture characterized?",
+      "a": "Pegmatitic texture is characterized by very large crystals (measuring centimeters to tens of centimeters) formed by very slow cooling, often occurring in veins within plutonic bodies."
+    },
+    {
+      "q": "What are the four weight percentage categories of igneous rocks based on silica (SiO2) content?",
+      "a": "Acidic (>65 wt %), Intermediate (52-65 wt %), Basic (45-52 wt %), and Ultrabasic (<45 wt %)."
+    },
+    {
+      "q": "Distinguish between felsic and mafic minerals.",
+      "a": "Felsic minerals (e.g., quartz, feldspar) are rich in silica and aluminum and are generally light-colored, whereas mafic minerals (e.g., olivine, pyroxene) are rich in magnesium and iron and are generally dark-colored."
+    },
+    {
+      "q": "What do the letters Q, A, P, and F represent in the IUGS classification diagram?",
+      "a": "They represent four mineral components: Quartz (Q), Alkali Feldspar (A), Plagioclase (P), and Feldspathoids (F)."
+    },
+    {
+      "q": "What is the difference between leucocratic and melanocratic rocks?",
+      "a": "Leucocratic rocks are light-colored and predominantly felsic, while melanocratic rocks are dark-colored and predominantly mafic."
+    },
+    {
+      "q": "Define the chemical classification of 'peraluminous' rocks.",
+      "a": "Peraluminous rocks are those where the molar Al2O3 content is greater than the combined molar content of Na2O, K2O, and CaO."
+    },
+    {
+      "q": "How do tholeiitic and calc-alkaline magmas differ in their chemical evolution?",
+      "a": "Tholeiitic magmas are reduced and show an increase in iron content as they cool, whereas calc-alkaline magmas are oxidized and maintain steady iron levels by precipitating magnetite."
+    },
+    {
+      "q": "What defines an ultramafic rock based on mineral composition?",
+      "a": "Ultramafic rocks are defined as having more than 90% mafic minerals."
+    },
+    {
+      "q": "What is a vesicular texture and how does it form?",
+      "a": "Vesicular texture consists of holes, pores, or cavities (vesicles) in volcanic rocks that form as gases expand during the solidification of magma."
+    },
+    {
+      "q": "What is a glassy texture and what does it imply about cooling history?",
+      "a": "A glassy texture is non-crystalline (amorphous) and indicates that the magma cooled extremely fast (quenched), leaving no time for atoms to arrange into a crystalline structure."
+    }
+  ],
+  "mcqs": [
+    {
+      "question": "An igneous rock where crystals are clearly visible to the naked eye and form an interlocking mosaic of mineral aggregates is best classified as:",
+      "options": [
+        "A) Aphanitic",
+        "B) Phaneritic",
+        "C) Porphyritic",
+        "D) Pyroclastic"
+      ],
+      "answer": "B",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "According to the compositional classification based on SiO2 weight percentage, a rock containing 48% SiO2 would be categorized as:",
+      "options": [
+        "A) Acidic",
+        "B) Intermediate",
+        "C) Basic",
+        "D) Ultrabasic"
+      ],
+      "answer": "C",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "In the context of igneous petrology, what defines an 'Ultramafic' rock?",
+      "options": [
+        "A) It contains more than 90% mafic minerals.",
+        "B) It is composed entirely of volcanic glass.",
+        "C) It has a silica content greater than 65%.",
+        "D) It contains large phenocrysts in a fine-grained groundmass."
+      ],
+      "answer": "A",
+      "difficulty": "Easy"
+    },
+    {
+      "question": "In a rock with a porphyritic texture, what does the presence of phenocrysts typically indicate about its cooling history?",
+      "options": [
+        "A) The entire rock cooled instantaneously at the Earth's surface.",
+        "B) The rock underwent a single, slow cooling stage deep underground.",
+        "C) The large crystals formed early during slow cooling before a subsequent period of faster cooling.",
+        "D) The rock was formed by the welding of fragmental volcanic debris."
+      ],
+      "answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "When using the IUGS QAPF classification for plutonic rocks, what is a primary requirement for the mineral components used in the triangular plot?",
+      "options": [
+        "A) The minerals must be too small to be seen with the naked eye.",
+        "B) The components (Q/F, A, and P) must constitute more than 10% of the rock.",
+        "C) The rock must be composed of at least 90% dark-colored minerals.",
+        "D) The quartz and feldspathoid minerals must be plotted on the same axis."
+      ],
+      "answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Why do glassy textures, such as those seen in obsidian, lack a crystalline structure?",
+      "options": [
+        "A) The magma was depleted of silica, preventing crystal growth.",
+        "B) High concentrations of gas created vesicles that disrupted the lattice.",
+        "C) The magma was quenched so rapidly that atoms could not arrange into an ordered structure.",
+        "D) The rock was formed by the accumulation of ash and lapilli during an eruption."
+      ],
+      "answer": "C",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes between 'Leucocratic' and 'Felsic'?",
+      "options": [
+        "A) Felsic refers to grain size, while leucocratic refers to mineral composition.",
+        "B) Felsic refers to the mineral/chemical association, while leucocratic refers to the light color of the rock.",
+        "C) Leucocratic rocks are always volcanic, whereas felsic rocks are always plutonic.",
+        "D) There is no distinction; the two terms are geologically equivalent in all contexts."
+      ],
+      "answer": "B",
+      "difficulty": "Medium"
+    },
+    {
+      "question": "In the classification of sub-alkaline rocks using an AFM diagram, why does the iron content of a Tholeiitic magma initially increase during cooling?",
+      "options": [
+        "A) The magma is highly oxidized, leading to the early precipitation of magnetite.",
+        "B) The crystallization of magnesium-rich minerals like olivine concentrates iron in the remaining melt.",
+        "C) Tholeiitic magmas are characterized by the early crystallization of quartz, which does not use iron.",
+        "D) The high alkali content of the magma prevents iron from entering the crystal structures of pyroxene."
+      ],
+      "answer": "B",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "A rock is chemically classified as 'Peraluminous' if it satisfies which of the following molar relationships?",
+      "options": [
+        "A) Al2O3 < (Na2O + K2O + CaO)",
+        "B) (Na2O + K2O) > Al2O3",
+        "C) Al2O3 > (Na2O + K2O + CaO)",
+        "D) Al2O3 = (Na2O + K2O)"
+      ],
+      "answer": "C",
+      "difficulty": "Hard"
+    },
+    {
+      "question": "Based on the classification of gabbroic rocks, what mineralogical difference distinguishes a Gabbro from a Norite?",
+      "options": [
+        "A) Gabbro contains clinopyroxene, while Norite is defined by the presence of orthopyroxene.",
+        "B) Gabbro is a volcanic rock, while Norite is a plutonic rock.",
+        "C) Gabbro must contain more than 10% quartz, whereas Norite is quartz-free.",
+        "D) Norite is defined by having a plagioclase content of less than 10%."
+      ],
+      "answer": "A",
+      "difficulty": "Hard"
+    }
+  ]
+}
