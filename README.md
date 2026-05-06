@@ -6,6 +6,12 @@ The goal of this project is to make studying more efficient by automatically con
 
 ---
 
+## Demo
+![UI Screenshot](demo1.png)
+![UI Screenshot](demo2.png)
+
+---
+
 ## Features
 
 - Accepts multiple input formats:
