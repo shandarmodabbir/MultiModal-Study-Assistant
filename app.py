@@ -404,7 +404,7 @@ with col_left:
         )
         if uploaded_audio:
             st.success(f"✅ **{uploaded_audio.name}** — {uploaded_audio.size/1024:.1f} KB")
-        st.caption("✅ ffmpeg detected. Google SR (free) or Whisper — select engine in sidebar.")
+        st.caption("")
 
     with inp4:
         st.caption("Upload a lecture video — MP4, MOV, WEBM")
